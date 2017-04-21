@@ -42,10 +42,9 @@ captures/
 .idea/copyright/
 .idea/encodings.xml
 .idea/misc.xml
-app/
-build.gradle
-gradle.properties
+
 gradle/
 gradlew
 gradlew.bat
-settings.gradle
+
+.idea/libraries/percent_25_3_1.xml
